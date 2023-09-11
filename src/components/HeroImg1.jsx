@@ -18,8 +18,8 @@ const HeroImg1 = () => {
         <p>Im' a Web Developer</p>
         <h1>React Developer.</h1>
         <div>
-          <Link to="/project" className="btn">
-            Projects
+          <Link to="/experience" className="btn">
+            Experience
           </Link>
           <Link to="/contact" className="btn btn-light">
             Contact
