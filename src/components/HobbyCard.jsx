@@ -6,6 +6,7 @@ import { Link } from "react-router-dom";
 const HobbyCard = () => {
   return (
     <div className="hobbies">
+      <h1 className="exp-heading">Project</h1>
       <div className="card-container">
         <div className="card">
           <h3>-basic-</h3>
