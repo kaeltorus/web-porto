@@ -18,7 +18,7 @@ const ExpCard = (props) => {
           <NavLink to={props.view} className="btn">
             Maps
           </NavLink>
-          <NavLink to="url" className="btn">
+          <NavLink to={props.source} className="btn">
             Source
           </NavLink>
         </div>
