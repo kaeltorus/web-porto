@@ -55,7 +55,7 @@ const Footer = () => {
           <h4>About me.</h4>
           <p>
             During my studies i did analysis based on data and some experience
-            programming languages. Currently focusing on React.js (tsx/jsx) and
+            programming languages. Currently focusing on React.js and
             basic CSS. As a quick learner with high curiousity i like to learn
             something to improve my skills.😁
           </p>
