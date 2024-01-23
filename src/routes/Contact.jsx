@@ -10,7 +10,7 @@ const Contact = () => {
       <Navbar />
       <HeroImg2
         heading="CONTACT."
-        text="Leave me a message of what you think and feel free to ask! ✌"
+        text="Leave me a message of what you think too discuss and feel free to ask! ✌"
       />
       <Form />
       <Footer />

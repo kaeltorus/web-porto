@@ -16,6 +16,7 @@
   border-radius: 10px;
   margin: 0 0.5rem;
   width: 333px;
+  height: 400px;
 }
 .exp-card img {
   width: 100%;
@@ -35,12 +36,20 @@
   -webkit-line-clamp: 4;
   line-clamp: 4;
   -webkit-box-orient: vertical;
+  width: 300px;
+}
+
+.absolute {
+  position: absolute;
+  bottom: 10px;
+  width: 300px;
 }
 
 .exp-btns {
   display: flex;
   justify-content: space-between;
   padding: 0.5rem 0;
+  margin-top: auto;
 }
 
 .exp-btns .btn {

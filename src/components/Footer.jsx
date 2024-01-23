@@ -54,8 +54,10 @@ const Footer = () => {
         <div className="kanan">
           <h4>About me.</h4>
           <p>
-            I am the guy who is going to make the entire world turn its head
-            towards me and congratulations, you are the first set. 😁
+            During my studies i did analysis based on data and some experience
+            programming languages. Currently focusing on React.js (tsx/jsx) and
+            basic CSS. As a quick learner with high curiousity i like to learn
+            something to improve my skills.😁
           </p>
           <div className="socialmedia">
             <a href="https://www.instagram.com/mikhaelsitorus/">

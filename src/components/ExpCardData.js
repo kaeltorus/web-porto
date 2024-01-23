@@ -44,7 +44,7 @@ const ExpCardData = [
   {
     imgsrc: comingsoon,
     title: "Comingsoon",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, obcaecati? Neque nemo ipsa blanditiis natus, accusamus aspernatur eveniet? Perferendis, eos.",
+    text: "I would love to travel the world, so i can fill this section with it ✌",
     view: "https://github.com/kaeltorus",
     source: "https://github.com/kaeltorus",
   },

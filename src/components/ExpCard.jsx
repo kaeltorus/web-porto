@@ -14,13 +14,15 @@ const ExpCard = (props) => {
       </h2>
       <div className="exp-details">
         <p>{props.text}</p>
-        <div className="exp-btns">
-          <NavLink to={props.view} className="btn">
-            Maps
-          </NavLink>
-          <NavLink to={props.source} className="btn">
-            Source
-          </NavLink>
+        <div className="absolute">
+          <div className="exp-btns">
+            <NavLink to={props.view} className="btn">
+              Maps
+            </NavLink>
+            <NavLink to={props.source} className="btn">
+              Visit
+            </NavLink>
+          </div>
         </div>
       </div>
     </div>
