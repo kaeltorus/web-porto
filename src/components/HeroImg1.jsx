@@ -12,7 +12,7 @@ const HeroImg1 = () => {
         <img className="berandaImg" src={Beranda} alt="Beranda" />
       </div>
       <div className="content">
-        <p>Hey, my name's Mike 🙋🏻‍♂️</p>
+        <p>Hey, my name's Mikhael Sitorus 🙋🏻‍♂️</p>
         <p>yeah you know, like the famous boxer.</p>
         <br />
         <p>Im' a Web Developer</p>
