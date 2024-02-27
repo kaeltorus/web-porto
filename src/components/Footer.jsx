@@ -66,24 +66,24 @@ const Footer = () => {
                 style={{ color: "white", marginRight: "2rem" }}
               />
             </a>
-            <a href="https://twitter.com/mkhlstrs">
+            {/* <a href="https://twitter.com/mkhlstrs">
               <FaTwitter
                 size={30}
                 style={{ color: "white", marginRight: "2rem" }}
               />
-            </a>
+            </a> */}
             <a href="https://www.linkedin.com/in/mikhael-sitorus/">
               <FaLinkedin
                 size={30}
                 style={{ color: "white", marginRight: "2rem" }}
               />
             </a>
-            <a href="https://github.com/kaeltorus">
+            {/* <a href="https://github.com/kaeltorus">
               <FaGithub
                 size={30}
                 style={{ color: "white", marginRight: "2rem" }}
               />
-            </a>
+            </a> */}
           </div>
         </div>
       </div>
