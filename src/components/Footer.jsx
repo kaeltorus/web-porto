@@ -57,7 +57,7 @@ const Footer = () => {
             During my studies i did analysis based on data and some experience
             programming languages. Currently focusing on JavaScript,React.js and
             Vue.js. As a quick learner with high curiousity i like to learn
-            something to improve my skills.😁
+            something to improve my skills.
           </p>
           <div className="socialmedia">
             <a href="https://www.instagram.com/mikhaelsitorus/">
