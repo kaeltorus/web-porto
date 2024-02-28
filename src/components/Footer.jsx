@@ -1,14 +1,6 @@
 import "./FooterStyles.css";
 
-import React from "react";
-import {
-  FaHome,
-  FaWhatsapp,
-  FaInstagram,
-  FaTwitter,
-  FaLinkedin,
-  FaGithub,
-} from "react-icons/fa";
+import { FaHome, FaWhatsapp, FaInstagram, FaLinkedin } from "react-icons/fa";
 import { GiMailbox } from "react-icons/gi";
 
 const Footer = () => {
@@ -55,8 +47,8 @@ const Footer = () => {
           <h4>About me.</h4>
           <p>
             During my studies i did analysis based on data and some experience
-            programming languages. Currently focusing on JavaScript,React.js and
-            Vue.js. As a quick learner with high curiousity i like to learn
+            programming languages. Currently focusing on JavaScript and
+            React.js. As a quick learner with high curiousity i like to learn
             something to improve my skills.
           </p>
           <div className="socialmedia">
